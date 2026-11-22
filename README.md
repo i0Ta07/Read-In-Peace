@@ -26,7 +26,7 @@ User-friendly app designed to help readers expand their vocabulary and improve r
 
 To use the application without setting up the development environment, you can download the pre-built executable:
 
-[Download Word Search App (Windows .exe)](https://drive.google.com/drive/folders/1JwQyfh3aH2QDaz5jHnjBCVg5MwlTaRov?usp=sharing)
+[Download (Windows .exe)](https://drive.google.com/drive/folders/1JwQyfh3aH2QDaz5jHnjBCVg5MwlTaRov?usp=sharing)
 
 > After downloading, extract the `.zip` file and double-click the `.exe` file to launch the app.
 
@@ -102,3 +102,6 @@ To create a standalone `.exe` file, follow the steps below. This will ensure all
 
 3. After the build completes, your .exe file will be located in the dist/ directory.
 
+## UI
+
+![UI](ui.png)
